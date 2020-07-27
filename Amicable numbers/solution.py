@@ -1,5 +1,3 @@
-import math
-
 sum = 0
 
 for a in range(0, 10000):
